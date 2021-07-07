@@ -17,7 +17,7 @@
         color: blue;
       }
       body{
-    background-image: url('img/background.jpg');
+    background-image: url("bg.png");
     background-size: 100% 120%;
     background-repeat: no-repeat;
     height: 100vh;
