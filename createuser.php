@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="css/createuser.css">
     <style>
     body{
-    background-image: url('img/background.jpg');
+    background-image: url("bg1.png");
     background-size: 100% 120%;
     background-repeat: no-repeat;
     height: 100vh;
